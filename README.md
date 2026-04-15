@@ -60,7 +60,7 @@ File: `dmart_data.csv`
 
 ### 🔹 Customer & Payments
 
-![Customer](Customer-analysis.png)
+![Customer](Customers-analysis.png)
 
 ---
 
