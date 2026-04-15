@@ -56,11 +56,11 @@ File: `dmart_data.csv`
 
 ### 🔹 Product Performance
 
-![Product](product-performance.png)
+![Product](Product-performance.png)
 
 ### 🔹 Customer & Payments
 
-![Customer](customer-analysis.png)
+![Customer](Customer-analysis.png)
 
 ---
 
